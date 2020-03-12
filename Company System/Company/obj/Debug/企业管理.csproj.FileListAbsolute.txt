@@ -1,0 +1,12 @@
+E:\NET\企业管理\企业管理\bin\Debug\企业管理.exe.config
+E:\NET\企业管理\企业管理\bin\Debug\企业管理.exe
+E:\NET\企业管理\企业管理\bin\Debug\企业管理.pdb
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.Login.resources
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.Properties.Resources.resources
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.csproj.GenerateResource.cache
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.exe
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.pdb
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.Main.resources
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.MainForm.resources
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.Register.resources
+E:\NET\企业管理\企业管理\obj\Debug\企业管理.csprojAssemblyReference.cache
