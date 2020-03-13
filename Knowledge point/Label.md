@@ -16,9 +16,9 @@
 | Size      | 指定标签控件的大小                                           |
 | Visible   | 标签是否可见，True为可见，False为不可见                      |
 
-![](Images\Label属性00.png)
+![](https://github.com/dengxiangliu/WinForm-application/blob/master/Images/Label%E5%B1%9E%E6%80%A700.png)
 
 
 
-![](Images\Label属性01.png)
+![](https://github.com/dengxiangliu/WinForm-application/blob/master/Images/Label%E5%B1%9E%E6%80%A701.png)
 
