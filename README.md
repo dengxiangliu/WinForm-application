@@ -12,6 +12,6 @@
 
 Windows窗体应用程序就是利用一系列的窗体控件来实现的
 
-| [[!Label](Images/Label.png)](/Knowledge point/Label.md)
+| [[!Label](Images/Label.png)](Knowledge point/Label.md)
 
 
