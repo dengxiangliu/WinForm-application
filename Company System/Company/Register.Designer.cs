@@ -122,7 +122,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Register";
-            this.Text = "Register";
+            this.Text = "注册界面";
             this.ResumeLayout(false);
             this.PerformLayout();
 
