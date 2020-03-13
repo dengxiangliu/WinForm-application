@@ -16,9 +16,9 @@
 | Size      | 指定标签控件的大小                                           |
 | Visible   | 标签是否可见，True为可见，False为不可见                      |
 
-![](E:\NET\WinForm-application\Images\Label属性00.png)
+![](Images\Label属性00.png)
 
 
 
-![](E:\NET\WinForm-application\Images\Label属性01.png)
+![](Images\Label属性01.png)
 
