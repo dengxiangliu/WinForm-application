@@ -1,6 +1,8 @@
+## **Label**
+
 在Windows窗体应用程序中，标签控件主要分为普通标签（Label）和超链接形式的标签（LinkLabel）。
 
-普通标签（Label）控件的常用属性：
+普通标签（Label）控件的常用**属性**：
 
 | 作用      | 属性名                                                       |
 | --------- | ------------------------------------------------------------ |
@@ -13,4 +15,10 @@
 | AutoSize  | 标签的大小是否根据内容自动调整，True为自动调整，False为用户自定义大小 |
 | Size      | 指定标签控件的大小                                           |
 | Visible   | 标签是否可见，True为可见，False为不可见                      |
+
+![](E:\NET\WinForm-application\Images\Label属性00.png)
+
+
+
+![](E:\NET\WinForm-application\Images\Label属性01.png)
 
