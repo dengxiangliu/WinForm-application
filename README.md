@@ -1,4 +1,6 @@
-# WinForm-application
+# WinForm-application （窗体应用程序开发）
 
-这是一个窗体应用程序，一步一步记录自己的辛酸往事
+根据[教程](http://c.biancheng.net/csharp/10/)一步一步来把C#学精，学透，并且把相应的成品放在上面。
+
+
 
