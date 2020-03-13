@@ -12,6 +12,10 @@ namespace 企业管理
 {
     public partial class Register : Form
     {
+        //新建一个窗口
+        Login login = new Login();
+
+
         public Register()
         {
             InitializeComponent();
@@ -40,10 +44,13 @@ namespace 企业管理
                 return;
             }
 
-            //将用户名和密码传入主窗口中
-            MainForm mainForm = new MainForm(name, password);
-            mainForm.Show();
+            //点击“确定”按钮跳转到主界面
+            login.Show();
+            this.Hide();
+
+
         }
+
 
         //"取消"按钮的事件用于关闭窗口
         private void button2_Click(object sender, EventArgs e)
