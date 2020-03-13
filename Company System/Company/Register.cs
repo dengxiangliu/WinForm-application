@@ -1,4 +1,5 @@
-﻿using System;
+﻿//注册界面代码实现
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
